@@ -1,0 +1,146 @@
+body{
+background-color: aqua;
+}
+
+.img{
+   background-repeat: no-repeat;
+   height: 150px;
+   width: 200px;
+    }
+
+.navmenu{
+    background-color: aqua;
+    height: 100px;
+    float: right;
+    max-width:max-content;
+
+        }
+
+ .navmenu ul {
+ 
+             }
+ .navmenu ul li{
+ list-style-type: none;
+ margin: 20px;
+ float: right;
+ font-size: 20px;
+               }
+ .navmenu ul li a {
+  text-decoration: none;
+  padding: 40px;
+  text-transform: uppercase;
+  cursor: crosshair;
+  color: pink;
+               }
+ .navmenu ul li a:hover{
+  background-color: bisque;
+                       }
+ .space{
+     clear: both;
+       }
+
+.h1{
+    color: green;
+   }
+.identity{
+ color: brown;
+ font-size: 25px;
+ font-style: italic;
+ text-overflow: ellipsis;
+ text-shadow: 5px 5px 5px red;
+ text-align: justify;
+         }
+
+.bol{
+    box-sizing: border-box;
+    background-color:aquamarine;
+    padding: 10px;
+    }
+.edu{
+    background-color: lightblue;
+    padding: 60px ;
+    float: left;
+    height: 400px;
+    width: 320px;
+    margin-left: 20px;
+    }
+.p1{
+    font-size: 25px;
+    color: darkred;
+   }
+.h2{
+    color: red;
+   }
+.toe{
+    box-sizing: border-box;
+    background-color: aquamarine;
+    padding: 15px;
+    }
+.skill{
+    background-color: lightblue;
+    padding: 60px ;
+    float: left;
+    height: 400px;
+    width: 320px;
+    margin-left: 20px;
+      }
+.p2{
+    font-size: 25px;
+    color: darkred;
+    }
+.h3{
+    color: red;
+   }
+.tkmcs{
+    box-sizing: border-box;
+    background-color: aquamarine;
+    padding: 15px;
+      }
+.extra{
+    background-color: lightblue;
+    padding: 60px ;
+    float: left;
+    height: 400px;
+    width: 320px;
+    margin-left: 20px;
+      }
+.p3{
+    font-size: 25px;
+    color: darkred;
+   }
+.h4{
+    color:red;
+   }
+.footer {
+    background-color:black;
+    height: 200px;
+        }
+.clear{
+    clear: both;
+      }
+.hsmg{
+    color:red;
+    text-align: center;
+    padding: 20px;
+     }
+.smg{
+   text-align: center;
+    }
+ .smg  ul li { 
+ color: deeppink;
+ font-size: 30px;
+ list-style-type: none;
+ text-align: center;
+ display: inline;
+ padding: 30px;
+            }
+.smg ul li a {
+    text-decoration: none;
+    cursor: crosshair;
+          }
+.smg  ul li a:hover{
+    background-color: blue;
+    padding: 30px;
+                    }
+
+ 

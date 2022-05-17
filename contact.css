@@ -1,0 +1,25 @@
+body {
+    background-color: chartreuse;
+}
+.gmail{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+.gmail2{
+    text-decoration: none;
+    color:black;
+}
+.telephone{ 
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+.telephone2{
+    text-decoration: none;
+    color:black;
+}

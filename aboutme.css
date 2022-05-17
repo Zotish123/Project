@@ -1,0 +1,39 @@
+.md{
+   color: red;
+   text-align: center;
+   
+
+    
+}
+.vd {
+    width: 100%;
+    position: absolute;
+    margin: 0%;
+} 
+.par{
+    color: green;
+    font-size: 20px ;
+    padding: 20px ;
+}
+b{
+    padding-top: 20px  ;
+}
+address{
+    color: brown;
+    font-size: 20px;
+    padding: 20px ;
+}
+.ar3{
+    color:blue;
+    font-size: 15px ;
+    padding: 20px;
+    text-align: justify;
+}
+body{
+  background-color: blanchedalmond;
+}
+
+
+/*-- <video autoplay loop class="vd ">
+        <source src="project.mp4" type="video/mp4">
+    </video>

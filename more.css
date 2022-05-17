@@ -1,0 +1,17 @@
+body{
+    background-color: deepskyblue;
+}
+.aim{
+    color: green;
+    text-align: center;
+    padding: 30px;
+
+}
+.para{
+    margin: 20px ;
+    text-align: justify;
+    font-size: 20px;
+    color: greenyellow;
+    text-shadow: 5px 6px 7px red;
+    text-align: center;
+}
